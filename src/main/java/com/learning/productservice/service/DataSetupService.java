@@ -1,10 +1,8 @@
 package com.learning.productservice.service;
 
 import com.learning.productservice.dto.ProductDto;
-import com.learning.productservice.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
